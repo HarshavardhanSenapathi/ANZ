@@ -1,0 +1,66 @@
+2021-03-10 02:37:14,677 DEBUG [main] Log:48 - Initializing Browser.....
+2021-03-10 02:37:14,679 DEBUG [main] Log:48 - CHROME
+2021-03-10 02:37:30,434 DEBUG [main] Log:48 - DRIVER:ChromeDriver: chrome on WINDOWS (51b0440f91e9ec3c19ff44c10eddb89f)
+2021-03-10 02:37:30,435 DEBUG [main] Log:48 - As Drver is Null Creatig driverChromeDriver: chrome on WINDOWS (51b0440f91e9ec3c19ff44c10eddb89f)
+2021-03-10 02:37:31,097 DEBUG [main] Log:48 - enter
+2021-03-10 02:37:39,551 DEBUG [main] Log:48 - exit
+2021-03-10 02:37:39,580 DEBUG [main] Log:48 - enter
+2021-03-10 02:37:39,584 DEBUG [main] Log:48 - implicitlyWait not specified in the Configuration.properties file.
+2021-03-10 02:37:43,278 DEBUG [main] Log:48 - Signin_link is  present
+2021-03-10 02:37:43,279 DEBUG [main] Log:48 - implicitlyWait not specified in the Configuration.properties file.
+2021-03-10 02:37:44,591 DEBUG [main] Log:48 - submit_button is  present
+2021-03-10 02:37:44,592 DEBUG [main] Log:48 - implicitlyWait not specified in the Configuration.properties file.
+2021-03-10 02:37:44,618 DEBUG [main] Log:48 - enter
+2021-03-10 02:37:46,308 DEBUG [main] Log:48 - gender is  present
+2021-03-10 02:37:46,909 DEBUG [main] Log:48 - selectUsingValue and value is: 13
+2021-03-10 02:37:47,212 DEBUG [main] Log:48 - selectUsingValue and value is: 11
+2021-03-10 02:37:47,308 DEBUG [main] Log:48 - selectUsingValue and value is: 1995
+2021-03-10 02:37:47,692 DEBUG [main] Log:48 - selectUsingValue and value is: 5
+2021-03-10 02:37:50,323 DEBUG [main] Log:48 - submitAccount is  present
+2021-03-10 02:37:50,323 DEBUG [main] Log:48 - implicitlyWait not specified in the Configuration.properties file.
+2021-03-10 02:37:50,438 DEBUG [main] Log:48 - enter
+2021-03-10 02:37:50,440 DEBUG [main] Log:48 - Harsha Senapathi
+2021-03-10 02:37:50,440 DEBUG [main] Log:48 - Harsha Senapathi
+2021-03-10 02:37:53,082 DEBUG [main] Log:48 - Signout is  present
+2021-03-10 02:37:53,083 DEBUG [main] Log:48 - implicitlyWait not specified in the Configuration.properties file.
+2021-03-10 02:37:53,876 DEBUG [main] Log:48 - Initializing Browser.....
+2021-03-10 02:37:53,876 DEBUG [main] Log:48 - CHROME
+2021-03-10 02:37:55,608 DEBUG [main] Log:48 - DRIVER:ChromeDriver: chrome on WINDOWS (f5d3bde9adb7ebfbcd4e6de48319eafd)
+2021-03-10 02:37:55,610 DEBUG [main] Log:48 - As Drver is Null Creatig driverChromeDriver: chrome on WINDOWS (f5d3bde9adb7ebfbcd4e6de48319eafd)
+2021-03-10 02:38:06,215 DEBUG [main] Log:48 - enter
+2021-03-10 02:38:06,217 DEBUG [main] Log:48 - implicitlyWait not specified in the Configuration.properties file.
+2021-03-10 02:38:06,224 DEBUG [main] Log:48 - implicitlyWait not specified in the Configuration.properties file.
+2021-03-10 02:38:09,436 DEBUG [main] Log:48 - Signin_link is  present
+2021-03-10 02:38:09,437 DEBUG [main] Log:48 - implicitlyWait not specified in the Configuration.properties file.
+2021-03-10 02:38:11,900 DEBUG [main] Log:48 - loginsbtn is  present
+2021-03-10 02:38:11,901 DEBUG [main] Log:48 - implicitlyWait not specified in the Configuration.properties file.
+2021-03-10 02:38:11,998 DEBUG [main] Log:48 - enter
+2021-03-10 02:38:14,097 DEBUG [main] Log:48 - TshirtLink is  present
+2021-03-10 02:38:14,098 DEBUG [main] Log:48 - implicitlyWait not specified in the Configuration.properties file.
+2021-03-10 02:38:14,129 DEBUG [main] Log:48 - Faded Short Sleeve T-shirts
+2021-03-10 02:38:18,767 DEBUG [main] Log:48 - Product is  present
+2021-03-10 02:38:18,767 DEBUG [main] Log:48 - implicitlyWait not specified in the Configuration.properties file.
+2021-03-10 02:38:18,868 DEBUG [main] Log:48 - Cartbtn is  present
+2021-03-10 02:38:22,093 DEBUG [main] Log:48 - Checkoutbtn is  present
+2021-03-10 02:38:22,094 DEBUG [main] Log:48 - implicitlyWait not specified in the Configuration.properties file.
+2021-03-10 02:38:23,814 DEBUG [main] Log:48 - Proceedbtn1 is  present
+2021-03-10 02:38:23,815 DEBUG [main] Log:48 - implicitlyWait not specified in the Configuration.properties file.
+2021-03-10 02:38:25,479 DEBUG [main] Log:48 - Proceedaddbtn is  present
+2021-03-10 02:38:25,480 DEBUG [main] Log:48 - implicitlyWait not specified in the Configuration.properties file.
+2021-03-10 02:38:25,585 DEBUG [main] Log:48 - Proceedaddchck is  present
+2021-03-10 02:38:25,586 DEBUG [main] Log:48 - implicitlyWait not specified in the Configuration.properties file.
+2021-03-10 02:38:27,042 DEBUG [main] Log:48 - Proceedshiping is  present
+2021-03-10 02:38:27,043 DEBUG [main] Log:48 - implicitlyWait not specified in the Configuration.properties file.
+2021-03-10 02:38:28,755 DEBUG [main] Log:48 - Signout is  present
+2021-03-10 02:38:28,755 DEBUG [main] Log:48 - implicitlyWait not specified in the Configuration.properties file.
+2021-03-10 02:38:29,779 DEBUG [main] Log:48 - Started 
+2021-03-10 02:38:30,031 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-03-10 02:38:30,033 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-03-10 02:38:30,034 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-03-10 02:38:30,035 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-03-10 02:38:30,035 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/rakes/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-03-10 02:38:30,282 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-03-10 02:38:30,282 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-03-10 02:38:30,282 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-03-10 02:38:30,283 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-03-10 02:38:30,283 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/rakes/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

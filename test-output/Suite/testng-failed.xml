@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.anz.util.ExtentReporterNG"/>
+  </listeners>
+  <test name="Test2(failed)">
+    <classes>
+      <class name="com.anz.SampleTestcases.AddingCart">
+        <methods>
+          <include name="checkCartDetails"/>
+          <include name="logout"/>
+          <include name="initWebDriver"/>
+        </methods>
+      </class> <!-- com.anz.SampleTestcases.AddingCart -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite] -->

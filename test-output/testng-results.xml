@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-09T21:07:14Z" name="Suite" finished-at="2021-03-09T21:08:29Z" duration-ms="74877">
+    <groups>
+    </groups>
+    <test started-at="2021-03-09T21:07:14Z" name="Test1" finished-at="2021-03-09T21:07:53Z" duration-ms="39257">
+      <class name="com.anz.SampleTestcases.register">
+        <test-method is-config="true" signature="initWebDriver()[pri:0, instance:com.anz.SampleTestcases.register@6236eb5f]" started-at="2021-03-10T02:37:14Z" name="initWebDriver" finished-at="2021-03-10T02:37:30Z" duration-ms="15871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initWebDriver -->
+        <test-method signature="registratioTest(java.lang.String)[pri:1, instance:com.anz.SampleTestcases.register@6236eb5f]" started-at="2021-03-10T02:37:31Z" name="registratioTest" data-provider="data-provider03" finished-at="2021-03-10T02:37:50Z" duration-ms="19238" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC001]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registratioTest -->
+        <test-method signature="usernameCheckTest(java.lang.String)[pri:2, instance:com.anz.SampleTestcases.register@6236eb5f]" started-at="2021-03-10T02:37:50Z" name="usernameCheckTest" data-provider="data-provider03" finished-at="2021-03-10T02:37:50Z" duration-ms="84" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC001]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usernameCheckTest -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.anz.SampleTestcases.register@6236eb5f]" started-at="2021-03-10T02:37:50Z" name="logout" finished-at="2021-03-10T02:37:53Z" duration-ms="3408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.anz.SampleTestcases.register -->
+    </test> <!-- Test1 -->
+    <test started-at="2021-03-09T21:07:53Z" name="Test2" finished-at="2021-03-09T21:08:29Z" duration-ms="35601">
+      <class name="com.anz.SampleTestcases.AddingCart">
+        <test-method is-config="true" signature="initWebDriver()[pri:0, instance:com.anz.SampleTestcases.AddingCart@69fb6037]" started-at="2021-03-10T02:37:53Z" name="initWebDriver" finished-at="2021-03-10T02:38:04Z" duration-ms="10471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initWebDriver -->
+        <test-method signature="loginTest(java.lang.String)[pri:1, instance:com.anz.SampleTestcases.AddingCart@69fb6037]" started-at="2021-03-10T02:38:04Z" name="loginTest" data-provider="data-provider03" finished-at="2021-03-10T02:38:11Z" duration-ms="7551" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC001]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="addingCartTest(java.lang.String)[pri:2, instance:com.anz.SampleTestcases.AddingCart@69fb6037]" started-at="2021-03-10T02:38:11Z" name="addingCartTest" data-provider="data-provider03" finished-at="2021-03-10T02:38:27Z" duration-ms="15107" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC001]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingCartTest -->
+        <test-method signature="checkCartDetails()[pri:3, instance:com.anz.SampleTestcases.AddingCart@69fb6037]" started-at="2021-03-10T02:38:27Z" name="checkCartDetails" finished-at="2021-03-10T02:38:27Z" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCartDetails -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.anz.SampleTestcases.AddingCart@69fb6037]" started-at="2021-03-10T02:38:27Z" name="logout" finished-at="2021-03-10T02:38:29Z" duration-ms="2375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.anz.SampleTestcases.AddingCart -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
